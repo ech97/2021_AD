@@ -1,3 +1,11 @@
+
+## Sample Video
+> 허프변환을 사용했을 때
+![Hough](./Hough.gif)
+> Lanenet을 이용하였을떄
+![deepLane](./deepLane.gif)
+## Usage
+```text
 0. 'cd ~/catkin_ws/src && roscreate-pkg lanenet rospy std_msgs sensor_msgs cv_bridge'
 
 1. Unzip the File and overwrite to '~/catkin_ws/src'
@@ -16,6 +24,4 @@
 6. 'roscore&'
 
 7. 'rosrun deepLane test_lanenet.py' OR 'python src/test_lanenet.py'
-
-
-
+```
