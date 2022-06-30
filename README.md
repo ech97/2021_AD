@@ -1,4 +1,9 @@
 
+## 개요
+> 1. 허프변환을 이용한 저성능 임베디드보드를 위한 차선인식 자율주행 알고리즘
+> 2. Nvidia의 LaneNet을 이용한 차선 Binary Segmentation 및 scikit의 dbscan을 이용한 차선 분류 알고리즘
+
+
 ## Sample Video
 > 허프변환을 사용했을 때
 
